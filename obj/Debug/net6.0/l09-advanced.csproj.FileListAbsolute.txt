@@ -1,0 +1,15 @@
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\bin\Debug\net6.0\l09-advanced.exe
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\bin\Debug\net6.0\l09-advanced.deps.json
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\bin\Debug\net6.0\l09-advanced.runtimeconfig.json
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\bin\Debug\net6.0\l09-advanced.dll
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\bin\Debug\net6.0\l09-advanced.pdb
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.csproj.AssemblyReference.cache
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.AssemblyInfoInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.AssemblyInfo.cs
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.csproj.CoreCompileInputs.cache
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.dll
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\refint\l09-advanced.dll
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.pdb
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\l09-advanced.genruntimeconfig.cache
+C:\Users\sean_\Desktop\csharp-course\l09-advanced\obj\Debug\net6.0\ref\l09-advanced.dll
